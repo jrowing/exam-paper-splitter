@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+# Exam papers and everything derived from them are the exam board's copyright.
+# Never commit them.
+*.pdf
+papers/
+markschemes/
+bank/
+*.db
